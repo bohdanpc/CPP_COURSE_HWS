@@ -5,9 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World!" << std::endl;
 
     //Implement HW2
+
+    //FIXING STUFF
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
